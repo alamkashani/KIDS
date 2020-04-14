@@ -6,10 +6,10 @@ we propose a novel fuzzy density-grid-based clustering method for clustering k-d
 
 #Files:
 
-kIDS_p2_Agg.m         The KIDS method implemented on Aggregation dataset
+kIDS_p2_Agg.m         :The KIDS method implemented on Aggregation dataset
 
-kIDS_p2_Chainlink.m   The KIDS method implemented on Chainlink dataset
+kIDS_p2_Chainlink.m   :The KIDS method implemented on Chainlink dataset
 
-Aggregation.txt       The Aggregation dataset
+Aggregation.txt       :The Aggregation dataset
 
-chainlink.txt         The Chainlink dataset
+chainlink.txt         :The Chainlink dataset
